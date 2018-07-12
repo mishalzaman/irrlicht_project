@@ -16,4 +16,4 @@ This is a starter project to create 3D applications in Irrlicht, using Visual Co
 7. Now build the project.
 8 If you run it and you get an error about a missing irrlicht.dll then you would need to copy the dll file to the executable that was created during the build process. I have to figure out how to include this on build time.
 
-
+magicVoxel
